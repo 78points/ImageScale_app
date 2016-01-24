@@ -24,8 +24,8 @@ If you copy ImageScale.app to your Application folder app will be accessible via
 # Support and Contributions
 
 
-[![issues](demo/imgs/issues-button.jpg)](https://github.com/78points/ImageScale_app.git/issues)
-
+Please report all issues hire: [Issues](https://github.com/78points/ImageScale_app.git/issues)
+To leave comment please visit http://78points.com/imagescale-comments-and-requests/
 
 
 # License
